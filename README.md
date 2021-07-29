@@ -7,4 +7,4 @@ If you wish to donate any mney to support the development of this bot, send mone
 # Support/Reports
 If you want help with this bot or want to report something, create an issue.
 
-Before creating as issue, please read https://dontasktoask.com, https://xyproblem.info/, and https://support.google.com/websearch/answer/134479?hl=en.
+Before creating an issue, please read https://dontasktoask.com, https://xyproblem.info/, and https://support.google.com/websearch/answer/134479?hl=en.
